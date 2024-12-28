@@ -63,10 +63,9 @@ The journey of creating this project was both challenging and rewarding:
 ## **Project Images**
 [Circuit Images]
 <br>
-(![WhatsApp Image 2024-12-28 at 17 36 54_4b3f233b](https://github.com/user-attachments/assets/f84f4385-764a-41ec-b504-14008c6cf5f5)
-)
-(![WhatsApp Image 2024-12-28 at 17 36 54_34ed5a3f](https://github.com/user-attachments/assets/002290ce-7b23-4816-b0d9-17f290799205)
-)
+![WhatsApp Image 2024-12-28 at 17 36 54_4b3f233b](https://github.com/user-attachments/assets/f84f4385-764a-41ec-b504-14008c6cf5f5)
+![WhatsApp Image 2024-12-28 at 17 36 54_34ed5a3f](https://github.com/user-attachments/assets/002290ce-7b23-4816-b0d9-17f290799205)
+
 
 ## **Contributions**
 **By:** 
